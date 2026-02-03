@@ -51,8 +51,8 @@ The application incorporates AI-driven logic to personalize workout and health r
 - Incorporated feedback to refine features and improve reliability
 
 ## App Demo
-- [Demo Part 1 – App Overview](assets/app-demo-part1.mp4)
-- [Demo Part 2 – AI-Powered Features](assets/app-demo-part2.mp4)
+- [Demo Part 1 – App Overview](assets/fitness-app-demo-part1.mov)
+- [Demo Part 2 – AI-Powered Features](assets/fitness-app-demo-part2.mov)
 
 ## Challenges & Learnings
 - Managing technical leadership while contributing to implementation
