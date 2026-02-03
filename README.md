@@ -1,6 +1,7 @@
 # fitness-app
 Agile-based mobile fitness app with AI-powered insights
 
-[Watch App Demo](assets/fitness-app-demo.mov)
+### App Demo
+- [Demo Part 1 ](assets/fitness-app-demo-part1.mp4)
+- [Demo Part 2 ](assets/fitness-app-demo-part2.mp4)
 
-<video src="assets/fitness-app-demo.mov" controls width="600"></video>
