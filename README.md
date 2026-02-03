@@ -1,4 +1,5 @@
 # fitness-app
+<img src="assets/home.png" alt="Fitness App Home Screen" width="300"/>
 
 Agile-based mobile fitness application designed to help users achieve both fitness and overall health goals through personalized, AI-powered insights.
 
