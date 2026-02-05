@@ -70,5 +70,5 @@ The application incorporates AI-driven logic to personalize workout and health r
 - Expanded health analytics and insights
 
 ## Notes
-This project was developed as a team-based academic project. Source code is not publicly available.
+This project was developed as a team-based academic project. Source code is not publicly available. 
 
